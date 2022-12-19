@@ -1,2 +1,2 @@
 # games
-new project
+project yes
